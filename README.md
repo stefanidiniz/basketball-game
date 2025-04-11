@@ -29,9 +29,9 @@ Um jogo 2D de basquete simples, estilo pixel art, desenvolvido em Unity como par
 - 👨‍💻 Abraháo
 - 👨‍💻 Andre Benther
 - 👨‍💻 Daniel
-- 👨‍💻 Roberto
+- 👩‍💻 Luiza
 - 👨‍💻 Patrick
-- 👨‍💻 Luiza
+- 👨‍💻 Roberto
 - 👩‍💻 Stefanie Diniz
 
 Bootcamp SoulCode TNT - 2025
