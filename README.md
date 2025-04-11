@@ -31,7 +31,7 @@ Um jogo 2D de basquete simples, estilo pixel art, desenvolvido em Unity como par
 - 👨‍💻 Daniel
 - 👩‍💻 Luiza
 - 👨‍💻 Patrick
-- 👨‍💻 Roberto
+- 👨‍💻 Robert
 - 👩‍💻 Stefanie Diniz
 
 Bootcamp SoulCode TNT - 2025
