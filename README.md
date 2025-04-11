@@ -26,12 +26,13 @@ Um jogo 2D de basquete simples, estilo pixel art, desenvolvido em Unity como par
 
 ## 👨‍💻 Equipe
 
-- 👨‍💻 Abraháo
-- 👨‍💻 Andre Benther
-- 👨‍💻 Daniel
-- 👩‍💻 Luiza
-- 👨‍💻 Patrick
+- 👨‍💻 Abrahão Guimarães
+- 👨‍💻 André Benther
+- 👨‍💻 Daniel Cruz
+- 👩‍💻 Luiza Santos
+- 👨‍💻 Patrick Ferreira
+- 👨‍💻 Paulo Sodré
 - 👨‍💻 Robert
-- 👩‍💻 Stefanie Diniz
+- 👩‍💻 Stéfani Diniz
 
 Bootcamp SoulCode TNT - 2025
