@@ -122,6 +122,81 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &178406798
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 178406799}
+  - component: {fileID: 178406801}
+  - component: {fileID: 178406800}
+  m_Layer: 5
+  m_Name: grPetropolis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &178406799
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 178406798}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.1554043, y: 0.1554043, z: 0.1554043}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1099651611}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -1.1, y: 110}
+  m_SizeDelta: {x: 1190.625, y: 412.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &178406800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 178406798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 159602727, guid: 002a1323b0ca6e342a4b9a810c0cbe7a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &178406801
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 178406798}
+  m_CullTransparentMesh: 1
 --- !u!1 &283474924
 GameObject:
   m_ObjectHideFlags: 0
@@ -156,7 +231,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -66.1, y: 54}
+  m_AnchoredPosition: {x: -60.799995, y: -24}
   m_SizeDelta: {x: 149.1513, y: 163.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &283474926
@@ -236,8 +311,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 65.2, y: 72.203514}
-  m_SizeDelta: {x: 149.1513, y: 104.0085}
+  m_AnchoredPosition: {x: 61.09999, y: -22}
+  m_SizeDelta: {x: 149.1513, y: 138.3936}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &360122736
 MonoBehaviour:
@@ -272,7 +347,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "PROFESSOR\nJOS\xC9 MAGALH\xC3ES\n\nSOULCODE\n\nTNT"
+  m_Text: "PROFESSOR\nJOS\xC9 MAGALH\xC3ES\n\nSOULCODE\n\nTNT\n\nGRUPO PETR\xD3POLIS"
 --- !u!222 &360122737
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -470,7 +545,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -55.1, y: -40.7}
+  m_AnchoredPosition: {x: -55.1, y: -96}
   m_SizeDelta: {x: 149.1513, y: 34.7168}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &638216072
@@ -612,6 +687,7 @@ RectTransform:
   - {fileID: 1322368692}
   - {fileID: 2071538816}
   - {fileID: 1529007838}
+  - {fileID: 178406799}
   - {fileID: 1622436370}
   - {fileID: 360122735}
   - {fileID: 1216622146}
@@ -752,7 +828,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -66.3, y: 120}
+  m_AnchoredPosition: {x: -61, y: 42}
   m_SizeDelta: {x: 149.1513, y: 34.7168}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1216622147
@@ -906,7 +982,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 62, y: 180}
+  m_AnchoredPosition: {x: 62, y: 178}
   m_SizeDelta: {x: 17781.25, y: 9776.238}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1529007839
@@ -981,7 +1057,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 65.1, y: 120}
+  m_AnchoredPosition: {x: 61, y: 40}
   m_SizeDelta: {x: 182.46, y: 34.7168}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1622436371
@@ -1060,7 +1136,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -55.5, y: -108.3}
+  m_AnchoredPosition: {x: -55.5, y: -140.3}
   m_SizeDelta: {x: 216.5279, y: 163.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1933640604
@@ -1276,7 +1352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
