@@ -172,7 +172,7 @@ Animator:
   m_GameObject: {fileID: 358501754}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6867ef404e1db8248b1aebf73c8cf0e1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 515ba1fda00176f4ab78bcf5f4e321ba, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -761,7 +761,7 @@ GameObject:
   - component: {fileID: 1256025335}
   - component: {fileID: 1256025334}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: pause
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1149,7 +1149,7 @@ GameObject:
   - component: {fileID: 1854652737}
   - component: {fileID: 1854652736}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: exit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1405,7 +1405,7 @@ GameObject:
   - component: {fileID: 2011651708}
   - component: {fileID: 2011651707}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: resume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

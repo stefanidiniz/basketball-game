@@ -266,7 +266,7 @@ Animator:
   m_GameObject: {fileID: 109829317}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fd547b74636f66e4fb71d732b554b559, type: 2}
+  m_Controller: {fileID: 9100000, guid: fda01b1c31ae75a4799813466941a755, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -707,7 +707,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1664327594}
         m_TargetAssemblyTypeName: menuManager, Assembly-CSharp
-        m_MethodName: StartGame
+        m_MethodName: Starttutorial
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -939,7 +939,7 @@ GameObject:
   - component: {fileID: 629439287}
   - component: {fileID: 629439286}
   m_Layer: 5
-  m_Name: Image
+  m_Name: rede
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1416,7 +1416,7 @@ GameObject:
   - component: {fileID: 1256025335}
   - component: {fileID: 1256025334}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: streetball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1495,7 +1495,7 @@ GameObject:
   - component: {fileID: 1270317748}
   - component: {fileID: 1270317747}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: "cr\xE9ditos"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1542,7 +1542,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 8ba8cc6bea8a2134786f5e278ff038b1, type: 3}
-    m_FontSize: 250
+    m_FontSize: 300
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -1839,7 +1839,7 @@ GameObject:
   - component: {fileID: 1506678010}
   - component: {fileID: 1506678012}
   m_Layer: 5
-  m_Name: tnt
+  m_Name: tnt1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1935,7 +1935,7 @@ GameObject:
   - component: {fileID: 1539038855}
   - component: {fileID: 1539038854}
   m_Layer: 5
-  m_Name: Image
+  m_Name: image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2111,8 +2111,8 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
-  m_Camera: {fileID: 0}
-  m_PlaneDistance: 100
+  m_Camera: {fileID: 1299367880}
+  m_PlaneDistance: 8
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
@@ -2172,7 +2172,7 @@ GameObject:
   - component: {fileID: 1854652737}
   - component: {fileID: 1854652736}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: exit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2503,7 +2503,7 @@ GameObject:
   - component: {fileID: 2011651708}
   - component: {fileID: 2011651707}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: play
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2525,7 +2525,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0.00024414062, y: 0.0002746582}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2011651707
@@ -2540,7 +2540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: 1dfb0e14a1711cd49a6d11821e57904d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -2549,11 +2549,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 8ba8cc6bea8a2134786f5e278ff038b1, type: 3}
+    m_Font: {fileID: 12800000, guid: 1dfb0e14a1711cd49a6d11821e57904d, type: 3}
     m_FontSize: 300
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 3
+    m_MinSize: 0
     m_MaxSize: 300
     m_Alignment: 4
     m_AlignByGeometry: 0
