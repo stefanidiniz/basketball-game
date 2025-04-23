@@ -60,7 +60,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 1.05, y: 1.05, z: 0.73837}
+        value: {x: 0.99, y: 0.99, z: 0.73837}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -297,7 +297,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1.05
+        value: 0.99
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -318,7 +318,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1.05
+        value: 0.99
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -671,7 +671,7 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -453267185, guid: 6f69793f68b581f47848bae2ec5fb927, type: 3}
+      value: {fileID: -2135936184, guid: a3c884a1771bad648bf349cad87d10d8, type: 3}
     attribute: m_Sprite
     path: 
     classID: 114
@@ -721,7 +721,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -453267185, guid: 6f69793f68b581f47848bae2ec5fb927, type: 3}
+    - {fileID: -2135936184, guid: a3c884a1771bad648bf349cad87d10d8, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -892,7 +892,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ButtonContinuar
+  m_Name: ButtonRanking
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Normal

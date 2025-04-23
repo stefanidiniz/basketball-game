@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7cbe9691515aaeb40babf6d5518275e7
+guid: 433ee3bee8eeb094a98448903749d40f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI-7_0
+      name: "\u2014Pngtree\u2014gamepad red and blue illustration_9291002_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 205
-        height: 205
+        x: 276
+        y: 574
+        width: 1948
+        height: 1351
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f8a6e267a111194c9107f67c4cea1b9
-      internalID: -1802023878
+      spriteID: 7bfec8169d6d0374a8dae70a0feb2e15
+      internalID: -1593789424
       vertices: []
       indices: 
       edges: []
@@ -141,7 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      UI-7_0: -1802023878
+      "\u2014Pngtree\u2014gamepad red and blue illustration_9291002_0": -1593789424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

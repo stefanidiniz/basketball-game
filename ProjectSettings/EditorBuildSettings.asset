@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/tutorialBotoes.unity
     guid: 2ec347d7e48aba74e9f4705fd061ee5b
+  - enabled: 1
+    path: Assets/Scenes/ranking.unity
+    guid: a52d03a09aec941429307fb12cd55a7e
   m_configObjects: {}
