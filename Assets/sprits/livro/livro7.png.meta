@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8bc221292277faa4085816c5edffb3ed
+guid: 17657bb138a0c0d4e873f2054e48fd8e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3_0
+      name: livro7_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 768
-        height: 560
+        width: 618
+        height: 513
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90e412ba21bacb04fbc89f56a417cf75
-      internalID: -1953318914
+      spriteID: 1ae88b28dbbf19a49855d2c74fb746f0
+      internalID: 1261798641
       vertices: []
       indices: 
       edges: []
@@ -141,7 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      3_0: -1953318914
+      livro7_0: 1261798641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
