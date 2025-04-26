@@ -20,14 +20,9 @@ public class menuManager : MonoBehaviour
         SceneManager.LoadScene(4);
     }
 
-    public void StartTutorial()
-    {
-        SceneManager.LoadScene(5);
-    }
-
     public void StartRanking()
     {
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(5);
     }
 
 

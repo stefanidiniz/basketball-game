@@ -21,9 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/creditos.unity
     guid: 996f1999ca1d9254aa5ef79f61102d74
   - enabled: 1
-    path: Assets/Scenes/tutorialBotoes.unity
-    guid: 2ec347d7e48aba74e9f4705fd061ee5b
-  - enabled: 1
     path: Assets/Scenes/ranking.unity
     guid: a52d03a09aec941429307fb12cd55a7e
+  - enabled: 1
+    path: Assets/Scenes/menuJogo.unity
+    guid: 4ec411c7c3329614fbd13aa69ed107d0
   m_configObjects: {}

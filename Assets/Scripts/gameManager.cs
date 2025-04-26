@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(6, LoadSceneMode.Additive);
         }
     }
 
