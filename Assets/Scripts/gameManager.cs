@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(0);
         }
     }
 
@@ -59,8 +59,8 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 1f;
         isPaused = false;
-        //Cursor.lockState = CursorLockMode.Locked;
-        //Cursor.visible = false;
+       //Cursor.lockState = CursorLockMode.Locked;
+       //Cursor.visible = false;
         img.SetActive(false);
     }
 }

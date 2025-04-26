@@ -7,7 +7,7 @@ public class menuManager : MonoBehaviour
 {
     public void StartMenu()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(0);
     }
 
     public void StartGame()
@@ -29,6 +29,7 @@ public class menuManager : MonoBehaviour
     {
         SceneManager.LoadScene(6);
     }
+
 
     public void ExitGame()
     {
