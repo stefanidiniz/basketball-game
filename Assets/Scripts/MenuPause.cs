@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+public class MenuPause : MonoBehaviour
 {
     public bool isPaused = false;
     public GameObject img;
@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.LoadScene(6, LoadSceneMode.Additive);
+            SceneManager.LoadScene(5, LoadSceneMode.Additive);
         }
     }
 

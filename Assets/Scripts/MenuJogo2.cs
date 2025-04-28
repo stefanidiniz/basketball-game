@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameManager2 : MonoBehaviour
+public class MenuJogo2 : MonoBehaviour
 {
 
     void Update()
@@ -16,12 +16,12 @@ public class GameManager2 : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.UnloadSceneAsync(6);
+            SceneManager.UnloadSceneAsync(5);
         }
     }
 
     public void Resume()
     {
-        SceneManager.UnloadSceneAsync(6);
+        SceneManager.UnloadSceneAsync(5);
     }
 }

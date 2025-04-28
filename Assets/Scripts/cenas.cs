@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class menuManager : MonoBehaviour
+public class cenas : MonoBehaviour
 {
     public void StartMenu()
     {
@@ -18,11 +18,6 @@ public class menuManager : MonoBehaviour
     public void StartCreditos()
     {
         SceneManager.LoadScene(4);
-    }
-
-    public void StartRanking()
-    {
-        SceneManager.LoadScene(5);
     }
 
 
