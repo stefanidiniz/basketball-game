@@ -151,7 +151,7 @@ RectTransform:
   m_GameObject: {fileID: 109829317}
   m_LocalRotation: {x: -0, y: -0, z: -0.000058049096, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -170.79}
-  m_LocalScale: {x: 3.0670824, y: 3.0670824, z: 3.0670824}
+  m_LocalScale: {x: 3.1, y: 3.0670824, z: 3.0670824}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1270317746}
@@ -266,7 +266,7 @@ Animator:
   m_GameObject: {fileID: 109829317}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: fda01b1c31ae75a4799813466941a755, type: 2}
+  m_Controller: {fileID: 9100000, guid: 7be6925e691960b40951d12348b7e9cf, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -650,7 +650,7 @@ Animator:
   m_GameObject: {fileID: 358501754}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6867ef404e1db8248b1aebf73c8cf0e1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 60edffa1c004baf4ab7506fc25083da1, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -707,7 +707,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1664327596}
         m_TargetAssemblyTypeName: cenas, Assembly-CSharp
-        m_MethodName: StartGame
+        m_MethodName: StartTutorial
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1277,7 +1277,7 @@ Animator:
   m_GameObject: {fileID: 1172343252}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9beef10f742bf054d9255d31f1b14b57, type: 2}
+  m_Controller: {fileID: 9100000, guid: e051ad1d9a5fdb34b8120ee49668b06f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1854,7 +1854,7 @@ Animator:
   m_GameObject: {fileID: 1461557884}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 515ba1fda00176f4ab78bcf5f4e321ba, type: 2}
+  m_Controller: {fileID: 9100000, guid: 2623d2a5ba6c7e24d9ca1e5a229c2499, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1909,18 +1909,6 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: GameManager2, Assembly-CSharp
-        m_MethodName: Resume
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 1770035941}
         m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
         m_MethodName: ContinueGame
@@ -2799,6 +2787,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1990780899}
   - component: {fileID: 1990780900}
+  - component: {fileID: 1990780901}
   m_Layer: 0
   m_Name: gameManager2
   m_TagString: Untagged
@@ -2835,8 +2824,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreText: {fileID: 0}
   timerText: {fileID: 0}
-  gameTime: 150
+  gameTime: 173
   pointsPerBasket: 2
+--- !u!114 &1990780901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990780897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea8544f8ee62f464c81c695551bbf637, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2011651705
 GameObject:
   m_ObjectHideFlags: 0

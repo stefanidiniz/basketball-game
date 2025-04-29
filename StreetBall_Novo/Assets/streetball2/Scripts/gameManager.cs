@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
     public Text timerText;
 
     [Header("Game Settings")]
-    public float gameTime = 150f;
+    public float gameTime = 173f;
     public int pointsPerBasket = 2;
 
     private int score = 0;

@@ -373,7 +373,7 @@ Animator:
   m_GameObject: {fileID: 455929150}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ce637faaa52ed3c438875ecea347f3d9, type: 2}
+  m_Controller: {fileID: 9100000, guid: ef51da34b745f4d4db32d8f0babe71dc, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1378,7 +1378,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1935732685}
-  - component: {fileID: 1935732686}
   - component: {fileID: 1935732687}
   m_Layer: 0
   m_Name: menuManager
@@ -1402,18 +1401,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1935732686
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1935732683}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 75636ea794aa70c4e940a6a6b8b4adc9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1935732687
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/streetball2/Cenas/ranking.unity
     guid: f82b24e6518ff16479805c9d1b3fe5f3
   - enabled: 1
-    path: Assets/streetball2/Cenas/tutorialBotoes.unity
+    path: Assets/streetball2/Cenas/tutorial.unity
     guid: 0cd988f668dc27f42ada3567ee27c761
   - enabled: 1
     path: Assets/streetball2/Cenas/Jogo.unity

@@ -799,7 +799,7 @@ Animator:
   m_GameObject: {fileID: 700546813}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e6b319f88571d104f98f8b4609336fcd, type: 2}
+  m_Controller: {fileID: 9100000, guid: 7b1a9e7b65fe3cb4c9b1ac2b34042aa8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2827,7 +2827,7 @@ Animator:
   m_GameObject: {fileID: 1879272525}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c55427275c32f8b40a13a234101893e1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 36ff3f0e7eb4ece42af4daedde45b6be, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2882,9 +2882,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1996126662}
-        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
-        m_MethodName: GoToMainMenu
+      - m_Target: {fileID: 1977936959}
+        m_TargetAssemblyTypeName: cenas, Assembly-CSharp
+        m_MethodName: StartTutorial
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

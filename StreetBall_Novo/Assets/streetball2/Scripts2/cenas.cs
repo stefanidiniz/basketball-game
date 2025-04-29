@@ -14,6 +14,11 @@ public class cenas : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+    
+    public void StartCreditos()
+    {
+        SceneManager.LoadScene(1);
+    }
 
     public void StartGame()
     {
@@ -26,12 +31,6 @@ public class cenas : MonoBehaviour
 
         SceneManager.LoadScene(4); // Carrega a cena do jogo diretamente
     }
-    
-    public void StartCreditos()
-    {
-        SceneManager.LoadScene(1);
-    }
-
 
     public void ExitGame()
     {
