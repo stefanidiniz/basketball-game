@@ -317,6 +317,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   menuButtons:
   - {fileID: 2052546532}
+  - {fileID: 617621777}
+  - {fileID: 1273621609}
 --- !u!4 &128955729
 Transform:
   m_ObjectHideFlags: 0
