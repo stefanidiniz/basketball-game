@@ -1,0 +1,5385 @@
+fileFormatVersion: 2
+guid: ba87abb2de095b24e802434b7ed49d00
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character2ruivo_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1349
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ba657666017f4fac4bc02a74cfd12
+      internalID: 1488534539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1349
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128e186e3e4467439c59021200b7210
+      internalID: -1549012072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1349
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0acc3cfe390c345ade8110dcf8b5be
+      internalID: -294406767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1285
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212dfffd249ab0d4ca6badca60b8fcbe
+      internalID: -189038894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1285
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e844086c31f43754b88c9b5598433544
+      internalID: -1803998613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1285
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff0833151b77f7479c6fa612b620fc8
+      internalID: -27852968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1285
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af8d345b288bc24d85fcf51eae07632
+      internalID: -862382445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1221
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f6396197b83641b76b57bf2886619
+      internalID: -2018646712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb210794b1a3fe458bcc92145faf67e
+      internalID: 1243244256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1221
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968178a1ccf062b49b9ac39321f2b28a
+      internalID: -1926878882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1221
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827e5f21018a6844a48147908040d5c
+      internalID: -174122117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1221
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326edf3479fd97d42bf90359f414a6b2
+      internalID: 1780202485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1221
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3b369f4f57ec4aa157bae0fb689cd
+      internalID: -767899404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1221
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198de7f51bb07b40931c97d954b0885
+      internalID: 527794317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedeff452bf6ff340a3c28e722b76d1a
+      internalID: 602284529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43fe8889ecbba4c83da357f281a578
+      internalID: 121338054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1221
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e653ca98663d42b077deefd8cba45
+      internalID: 993796893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_17
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1221
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b001a768bb4ccd4a8690c6057fa9ee9
+      internalID: -1177579550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1221
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f4cc5c879a57e4e9681a5e5bc15741
+      internalID: -24817785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1221
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed3ae28e90ee8c47b6e911c1ff64fe8
+      internalID: -1750089024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1221
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1c4ec096359c4ab679d721bbf252d
+      internalID: 2030105890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_21
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1221
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca04726a6cf2f64ab5f25b26ba84181
+      internalID: 193807785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_22
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1221
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82efff03cfe6d4e4993008c53265e5a5
+      internalID: 648637818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_23
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1221
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51c7f98a6702349ab66072e22cd6d2
+      internalID: -1290034102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_24
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1221
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651617702b85a4f47bf3fb329137bf24
+      internalID: 284989270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_25
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024b00bda75f3244a8cfaf234614137
+      internalID: -1287034016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_26
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a928bee89114346b2b6567569eedb9
+      internalID: 930389963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_27
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3251c292954071418c383dd8f8b752e
+      internalID: 1168593614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_28
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d341851e7acd440bc32e93ac29ea01
+      internalID: -680932333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_29
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1221
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b624c30b52975f046aab189fc626681b
+      internalID: -1763108616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1157
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1f965e01fa9e14cbc8fd75f7271e4d
+      internalID: 1056081905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1157
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549759f49375c7469068f6061acae8d
+      internalID: -312447372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1157
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b7c2fad9c9e7c42b53d96e80edc899
+      internalID: -1979389003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1157
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24bfa80237d6154794eb90f74e116a0
+      internalID: -2061278628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1157
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609df538acbe4004597f9caeed31ba88
+      internalID: -1910040845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1157
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efd79123eee4c4eb9c71184fd6cf2c
+      internalID: 1937644545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1157
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5435e59f031726b49b2d5842ef7351a6
+      internalID: -1477914998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1093
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32c34588f611624eb0186b582993225
+      internalID: 2133165114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1093
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893605990a9e4324c8ee5a96bff09c05
+      internalID: -1567263009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1093
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a631652a738ca449406415df9d6061
+      internalID: -2138547749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1093
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e518828762c14ca70c1d8e0394c19
+      internalID: 277514494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1093
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e22bae23a0839944967cdf471312d9f
+      internalID: -1188884949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_42
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1093
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5003bbca7c9243ba07732628f8ee3
+      internalID: 1950512061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_43
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1093
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0041f0ff6aa21d84da62afa86fa29159
+      internalID: 1309163921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1093
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd69ba3da1929be4090fa84b0c47a70f
+      internalID: -618517354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1028
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad6d0134afa3d46b352a49d0786938
+      internalID: 1504438473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1028
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a491daef28d6478a7ab06eb5d8508
+      internalID: 361990543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1028
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9402e445efc143a3318efa7013603
+      internalID: 1160937199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1028
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647245f99abdaf448be3f18671800f56
+      internalID: 267920496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1028
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8544d2dbe44b0454e9eb50aed11ea9ae
+      internalID: 1491981245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1028
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e8c401bcd1259429e4f66e4f191b6f
+      internalID: -531153744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1028
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620432522fe5c08428362a80da29a822
+      internalID: 356831163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1028
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19133281abeacc246a3a3a7a119448c7
+      internalID: -260721432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08ee84f45bbff40a0d4ee35614866f
+      internalID: 1839796254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8ac2f24c55a04e98035cbe6ff38ce
+      internalID: -749364077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 964
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ced9aeb9199b6c4b8a02032feef4e9d
+      internalID: 1308065772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ccaff034d534a418919ad8658d9adc
+      internalID: 464250545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cbe011eb96cd14c912a8c1e350ee31
+      internalID: -1216209987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a6dd8010063a54e8d80cc5a337b34b
+      internalID: -1123981018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 964
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f2809bbd5a254db0b6dc172eb9a56
+      internalID: -749915562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 964
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1532513e4f029e4b9b0c42825e242d0
+      internalID: -52760356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_61
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf8474ad9389b4ea4c34f7971cec55
+      internalID: 492122575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_62
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411fb7d5a588d6d41942b2af695b021a
+      internalID: -250415491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_63
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abb36130f455ef4a865eac4674ae6d8
+      internalID: -484843740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_64
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588804c4f1e4cde4183e2c6aa492be39
+      internalID: -1607689903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_65
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff7628464746a746b7b31cb46452efe
+      internalID: -1690171188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_66
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 964
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531d9f4786c0ac45b3fbe738ccf6c18
+      internalID: 902722685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc24ffdd2b792c489248e35ef037936
+      internalID: -924035270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d42d67f1ff1be645b468360358bdab8
+      internalID: 1142383566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_69
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 900
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cf4915b02ffa64cb715336f74837c9
+      internalID: 1121298338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 900
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e16da3756bac1b49a090ba2d9885a8f
+      internalID: -582932241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_71
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1878b661bec4942b662c5679c0a6b8
+      internalID: -1117567965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_72
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a019441828599644fa5923a157f29512
+      internalID: 991973398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_73
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 900
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbd2e312a81fa45a3f4a2a3762860c
+      internalID: 1820153529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_74
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937c37d61d07044e98f0e0339875ec4
+      internalID: 1902615624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_75
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904317481a4d894ebd90015faa71d57
+      internalID: 13732639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_76
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 900
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540877e00f118c646ba195955d394a3a
+      internalID: 1441872346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_77
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 912
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee323bf55294ce40b5f275d9edf3e41
+      internalID: 596413022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 915
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae0d2077b6798146b6eb7af0911d5f4
+      internalID: 1757480026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_79
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 912
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c459140e42d49c428b4cb10abf8d9c3
+      internalID: -627326220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_80
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 900
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ff0b9472cff474cb2c4b1c878fd6e1
+      internalID: 1265673271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_81
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95bad4094f52bd45b8bcb5e94e93d91
+      internalID: -2120790869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_82
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb95dc01a0f444983b9fc67e4554fb
+      internalID: 948439602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_83
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 900
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9064c0d7c974b4bb83f7c4bad41673
+      internalID: 1772327587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_84
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 900
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f61e4175e0d074d9b23e74013099ed
+      internalID: 1489573452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_85
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 900
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6425b3088760642a231b2c38a04298
+      internalID: 580832175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_86
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 900
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b41b5ccdb66f4c90a225c1170009a
+      internalID: 1125819904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 836
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788c49475d06ff243a163e266954bada
+      internalID: -1112841593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 836
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b06d9c7e68a444ebc4aa27a47fd73f
+      internalID: 2124915421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 836
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57d0730bbeba944da33cfbcac193f2c
+      internalID: -987880209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 836
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76077e6423289174eb7eb8860735c865
+      internalID: 555851711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 836
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6210846affd10084c86cf9c5980e46ef
+      internalID: 140560020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 836
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d191c02a2fad64a85b40656b43d34d
+      internalID: -642757469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 836
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d22ceb5cbddfd448731d91510654cc
+      internalID: -1338036250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62565a625f0a5f548bd10e1601bc9510
+      internalID: -195863637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9044096b340c6141844fcbe8ded3d13
+      internalID: -1362848484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_96
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 771
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17e7c0a2478814ab046b236c610e7c
+      internalID: -223730653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_97
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c694abfd37a14d9aab0f2d570e705
+      internalID: -504392862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_98
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321546273d212c142bf10d2fe2bdcf80
+      internalID: 1117898640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545a53c3cd1d0440ba2be47f9ee0554
+      internalID: -1836037442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_100
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 771
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0799ccd3f7c694bbca1f8b764bce26
+      internalID: 1903911972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_101
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 771
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc6005121d61a4a863d202ee54538a
+      internalID: -1780633775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_102
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 771
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25af97cbea33341b88af937d3d1fb3
+      internalID: 1519491087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_103
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 771
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0b0dad122468543be41a4e795500d9
+      internalID: 1647832834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_104
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 771
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9610c3f0fdeb8a04bbad1ace8b0021bb
+      internalID: 333780701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_105
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 771
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b2b4314d35b54ba37584e7abc586a
+      internalID: -10498650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_106
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 771
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59cb17dc3946c845a9da5439e41b347
+      internalID: 644358722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_107
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 771
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb74d8f53f6b75248beab83591f6c86f
+      internalID: 1546707286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_108
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 771
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444cda5064176a4b9e2e02a825510a4
+      internalID: -1990964095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_109
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 771
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac8a3a2ef295de4dac08cacb7be89da
+      internalID: -470532738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_110
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 771
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd872a4ab0a7d9343ab147f98d900f33
+      internalID: 1451336909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_111
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 771
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e73bc5ea6ae841a24f334596cf261
+      internalID: -1560316918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_112
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 771
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37755d93840340d4c85249b4081f2d01
+      internalID: 2056868627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_113
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb1ad47be58d0e4999772e3a1284e34
+      internalID: -115464470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_114
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90593c1e76d254a47b82ad478df3da48
+      internalID: 676613217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_115
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 771
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a4addbd84ddaa4fa5ec02898438d04
+      internalID: 1221214560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_116
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 790
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b78863db17d54bb27735f070c77ee
+      internalID: 19777723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_117
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 790
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344aafaf2101aa8439ca0c15b20a3a1e
+      internalID: -698989103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_118
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 787
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe869e8a067a48746a7cc831753ad6ba
+      internalID: -1120131046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_119
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 771
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab455c62ca850a4599bb3d164e2f8b8
+      internalID: -1932860552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_120
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65882561acb4da54f8f0bafb049facb1
+      internalID: 813679695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_121
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffebc2420d6ee140862ff4d11f3784a
+      internalID: -1708643437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_122
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 771
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02fc0888d4b54e48aca13358c20a108
+      internalID: 1808864238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_123
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 771
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0683a28bac49da344b609daff5279bce
+      internalID: -1905604159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_124
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 771
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5769d7d0d278c48b1b7fd8ee280cc2
+      internalID: -1122527590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_125
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 771
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54364f2e81761d48a168c7ec75e657b
+      internalID: 1121216269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_126
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 708
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f72efb3c72ca4419faf7356a278772
+      internalID: -1710881418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 708
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518131396c9f9c34b8907631232f7f43
+      internalID: 1675719890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 708
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfd3b9ca5e9ef54b9c2f42aadf88fc5
+      internalID: -1012140329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 708
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daa7a5073d99c342b542eaf030fd4cf
+      internalID: 1446973536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_130
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 708
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e05cefdfd9c794d9d7a1cf519857de
+      internalID: -1358117156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_131
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8490dd285c81f47a3a141ec7f402b3
+      internalID: 2064749644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 644
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412615732e87ba4f998c51e7939851c
+      internalID: -228364574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_133
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 644
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9500752b1e328408a118a84088b3f0
+      internalID: -146576287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_134
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 644
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf249fcdc66f9498a4cf0a18746afc
+      internalID: 1941338423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_135
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 644
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4cdc9d6417603409254d1ac93b83b3
+      internalID: 667731234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 579
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b84468b1ee17364087550f0194b6ce6
+      internalID: -3629530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 579
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ce1cd3f87df54a8c541f88762e165
+      internalID: 367078223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 579
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcad957233ffef44a6689049d50980e
+      internalID: -25457036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 579
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06eeac098cf2124ca8b25d49e5cd834
+      internalID: -690054401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_140
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 579
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48342634539a2074581ef79c2aff36b9
+      internalID: -1746407862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 579
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044c070d0cd30847ba1df1a4ccfd0d0
+      internalID: -1688661675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 579
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45c1e3e3eb46941bc58773a7178188
+      internalID: 206167168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_143
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 587
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a2039892d02d448e3bf84d0bc411b
+      internalID: 661526081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_144
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 594
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e291c08a0d7bd4a816082059ea800e
+      internalID: -843047746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_145
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 594
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec4d4640133de41981dbc06e349fbb
+      internalID: -1366217512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_146
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 589
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d52e4399dc1547b006c84f6ea89d3
+      internalID: 1670174634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_147
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 587
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0bb7ddac4a8945bcd0d1f47a7f89d
+      internalID: -635877769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_148
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 580
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f90ca20edf37045a61b226a42aa842
+      internalID: -148309949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_149
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 580
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378f1d3a0b88ab34eb169403621105ab
+      internalID: 718465639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_150
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 580
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69b1817b11aa245bd642354d15315f
+      internalID: 994350268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_151
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 515
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bd1069bafcccb49878c672160fa074
+      internalID: -2003729500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_152
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 515
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f669af93ddb34297bb10183fb8c10
+      internalID: -1457932218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_153
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 515
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1928c5aeccee1204fb5eeac1038530e1
+      internalID: 1646609738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_154
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 515
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325efe4ee82e8b247821da7fa873407f
+      internalID: 1416218624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_155
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 515
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330ac54f1bc9434e8c32947a636b0cd
+      internalID: -1542534460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_156
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 515
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634dbfa821cd9174ab2fa045a1ee624c
+      internalID: 1560958548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_157
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 515
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9bf7ce8149aff48822cf74e7056f7e
+      internalID: -1367416656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_158
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 523
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec605c6ba09fbb44a414fa95f6d3dbf
+      internalID: 1654306132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_159
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 530
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42114c16fecf68246b284a3622bb9501
+      internalID: -693837929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_160
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 530
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820be0bd9e3ba4459b0e7d81944e286
+      internalID: 1406224529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_161
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 525
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647bdc06edc883f4dae9d6a10a4ac664
+      internalID: -131145031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_162
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 523
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7c6873cf538cc42843186ea63dcb3a
+      internalID: 400877540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_163
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 516
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120c68f3b06fcc41b94f54c990726c7
+      internalID: -2069998952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_164
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 516
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0d0c2bb181bc4c9307f080c4df5c8
+      internalID: -689196214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_165
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 516
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f7b84b56174514084c87c13d957bb1
+      internalID: 730277118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 451
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efafed4fe399b4e95b5c0a4669bb04
+      internalID: -1997512440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 451
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0263ffafef9d0c34fa03f6ec69fce887
+      internalID: -1826596285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d2e7ae88eb7874891c242e9265e29b
+      internalID: 1470339103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_169
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 451
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6422b3edaf6d04287aacda272a1cdf
+      internalID: 416675320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_170
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 451
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1941e61bc805e96479d05ef9ee7f69cc
+      internalID: -691585940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_171
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 451
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4f55e4511d0745a538a263107dd0f
+      internalID: -518051873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_172
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 451
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65fec5620ab124459303c7578c540f9
+      internalID: -2093748245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_173
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 459
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411008e021a0f6340b0e537bb827cb0c
+      internalID: 1607782237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_174
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 469
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c63a18e850f842acf83adfade23d5
+      internalID: -1885398262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_175
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 467
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e560db2c9b1a148b49335e2c84e49e
+      internalID: -918311546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_176
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 461
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfcf440d3e9704aa596a60ab13a91b
+      internalID: -1476709419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_177
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 450
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f64ac2b45043a48b0d296b7c579c87
+      internalID: 1381917334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_178
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 450
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c82ca9e4d61a24598917191cb3c735
+      internalID: 360584742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_179
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 450
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7485236ee7dc8b49b22bbdad0f4cd66
+      internalID: -362528112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_180
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 395
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ffab6d8f933d4b8e094c6b34a872f
+      internalID: 2098351776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_181
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 405
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1b44ef68f962b4db282034e5f4db4a
+      internalID: -1882812514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_182
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 404
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbfb8c6c617dd548a32a44ff10f2807
+      internalID: 2123225704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_183
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 399
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5b72d277e06984f9001dd8a92c565f
+      internalID: 1337021655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_184
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 399
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddbc485bfc96f34ba00b83da052b427
+      internalID: -860184117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_185
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 433
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aeb08a1bf736848a7e28d64cd303a0
+      internalID: -841242274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_186
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 387
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73cfc1e83f1bfb41b9107aa17e7d329
+      internalID: -772340634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_187
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 387
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f19c5b6765fb48ad614dd822bcbb1
+      internalID: 685605333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_188
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 387
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d88c98de06d654086bc0e56317b41f
+      internalID: 2088583691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_189
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 387
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e28fb1a1202ac4eae60e37df92c8bd
+      internalID: 650092920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_190
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 387
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2caade34e4c4cc4d94c263c60e9b471
+      internalID: 31454375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_191
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 387
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5748b25951dfb4590fce97eeb6ffba
+      internalID: -1540862965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_192
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 387
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a0b589da66fb4f8ac8c43f0709260
+      internalID: 603889832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_193
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 394
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad65b59163e37ab439a3d16dad5eb901
+      internalID: -496124735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_194
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 387
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979fad4d14b5c864a88c0cb00f98187d
+      internalID: -824033418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_195
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 387
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8a699809c085b47889164ecd8c5ab1
+      internalID: 767385053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_196
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 387
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd757577ffd3b7f4e9e7a0e3344e4479
+      internalID: -933093339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_197
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 387
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86108c2d4dfed46bf04f7d265831a7
+      internalID: -1003258766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_198
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 387
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d0f310a298f645ab7fe3fbe9fd3a4
+      internalID: 339855704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_199
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331dfe959e040745ab154f336fed568
+      internalID: -2027809530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 323
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086edb1eadcf7294097943701c49208c
+      internalID: -2040593445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 323
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d83b8e1f36c23c4b833d0aed67bb2ed
+      internalID: -1928813379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_202
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 323
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13831b962d2136948b6ee5eff418f04f
+      internalID: -96610992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_203
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 323
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11c0e164f5e944ebcf7a47dab7cd3a
+      internalID: 460541237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_204
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 323
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceefa653e61150f48afc0986be752e0e
+      internalID: 1246712881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_205
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 323
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b0eedfb3cef84c826e341c9420e53
+      internalID: -670568193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_206
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 331
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a85a97f676e8884f9042aec24c67daf
+      internalID: -141353370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_207
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 338
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc20e388c8465469b6273c61e5df1f
+      internalID: -67544570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_208
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 338
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552be5158252b7041ac9feeb6fe40051
+      internalID: 1133847618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_209
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 333
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c59bb778cc9c2408c61e6e92a27069
+      internalID: 1596041495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_210
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 331
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88dd424ea0bd724c88aa1c82d7cc8e5
+      internalID: 338593186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_211
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 324
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7948a8e30c3bfb42a37d34c5a12cc6e
+      internalID: -310509944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_212
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 324
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d2145ec88d51438e74fe637458ff6
+      internalID: -242915303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_213
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 324
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2da70c10d3751409db1fcffc385cfb
+      internalID: 69186621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_214
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 260
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653a9456275892d4ebba62cec2d9b006
+      internalID: 602173110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_215
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 260
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18beb00ad64bf8409b009aa40dabd43
+      internalID: 820478319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_216
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 260
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d71cc411f2861c428c1c71d3a35355e
+      internalID: -1710538355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_217
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 260
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28a067cedc7121478904c665ab8db3a
+      internalID: 705183703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_218
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 260
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a37d68e997cda94284c14be91a917c2
+      internalID: 2054169857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_219
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 196
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8757832a83edaf6429dbcc590901b3a5
+      internalID: -427167718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_220
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 196
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5619f353fffc46b2b87f81ea69615
+      internalID: 399267369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_221
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 196
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea28ca96e90d51488e1236780dbffb8
+      internalID: 494014491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_222
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 196
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962f6e444c84d864dabcde2908ea886c
+      internalID: -344392784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_223
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 196
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43cc3265bbd36c44b01b3fdc7c07f6c
+      internalID: 982125618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_224
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695550b53900dd4590e4a0fedc9e44a
+      internalID: -528939985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1852e58fe8e44e442987c2ebc99a6788
+      internalID: 1018451757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_226
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6aa8a4f7516b543b08eceebd520f57
+      internalID: 1757579454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_227
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1e1c76ade3834eba9b6b609a663b6
+      internalID: 1544697921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_228
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 131
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef749709028975d43943550cee183c53
+      internalID: 1008829335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_229
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 131
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7068fd3fa459e44090020093da17596
+      internalID: 1832513427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_230
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c279e67ccdf24e8dd8e745c070a04
+      internalID: 337643504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_231
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e29058d16fef745b403c7da32f7b6a
+      internalID: -657934053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_232
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 68
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a4e379e05cb6648b8265ac965427ad
+      internalID: -776597205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_233
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5896f1ba3b3d41864c29df6890e3a
+      internalID: -849853492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_234
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 15
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8391b72155bb6b409780831b77aabdc
+      internalID: 1546760798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_235
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 19
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4b14c255d7cb849b7410d3887726d9
+      internalID: -210460512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_236
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221328e040e5d684aa9545cf52dc4652
+      internalID: 1359228857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_237
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df38d6a269368c843b1b3ef5b3d6a485
+      internalID: -1797512757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character2ruivo_238
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8a81f52f34da478dadc579cb1c1f8
+      internalID: -2036943554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Character2ruivo_0: 1488534539
+      Character2ruivo_1: -1549012072
+      Character2ruivo_10: -174122117
+      Character2ruivo_100: 1903911972
+      Character2ruivo_101: -1780633775
+      Character2ruivo_102: 1519491087
+      Character2ruivo_103: 1647832834
+      Character2ruivo_104: 333780701
+      Character2ruivo_105: -10498650
+      Character2ruivo_106: 644358722
+      Character2ruivo_107: 1546707286
+      Character2ruivo_108: -1990964095
+      Character2ruivo_109: -470532738
+      Character2ruivo_11: 1780202485
+      Character2ruivo_110: 1451336909
+      Character2ruivo_111: -1560316918
+      Character2ruivo_112: 2056868627
+      Character2ruivo_113: -115464470
+      Character2ruivo_114: 676613217
+      Character2ruivo_115: 1221214560
+      Character2ruivo_116: 19777723
+      Character2ruivo_117: -698989103
+      Character2ruivo_118: -1120131046
+      Character2ruivo_119: -1932860552
+      Character2ruivo_12: -767899404
+      Character2ruivo_120: 813679695
+      Character2ruivo_121: -1708643437
+      Character2ruivo_122: 1808864238
+      Character2ruivo_123: -1905604159
+      Character2ruivo_124: -1122527590
+      Character2ruivo_125: 1121216269
+      Character2ruivo_126: -1710881418
+      Character2ruivo_127: 1675719890
+      Character2ruivo_128: -1012140329
+      Character2ruivo_129: 1446973536
+      Character2ruivo_13: 527794317
+      Character2ruivo_130: -1358117156
+      Character2ruivo_131: 2064749644
+      Character2ruivo_132: -228364574
+      Character2ruivo_133: -146576287
+      Character2ruivo_134: 1941338423
+      Character2ruivo_135: 667731234
+      Character2ruivo_136: -3629530
+      Character2ruivo_137: 367078223
+      Character2ruivo_138: -25457036
+      Character2ruivo_139: -690054401
+      Character2ruivo_14: 602284529
+      Character2ruivo_140: -1746407862
+      Character2ruivo_141: -1688661675
+      Character2ruivo_142: 206167168
+      Character2ruivo_143: 661526081
+      Character2ruivo_144: -843047746
+      Character2ruivo_145: -1366217512
+      Character2ruivo_146: 1670174634
+      Character2ruivo_147: -635877769
+      Character2ruivo_148: -148309949
+      Character2ruivo_149: 718465639
+      Character2ruivo_15: 121338054
+      Character2ruivo_150: 994350268
+      Character2ruivo_151: -2003729500
+      Character2ruivo_152: -1457932218
+      Character2ruivo_153: 1646609738
+      Character2ruivo_154: 1416218624
+      Character2ruivo_155: -1542534460
+      Character2ruivo_156: 1560958548
+      Character2ruivo_157: -1367416656
+      Character2ruivo_158: 1654306132
+      Character2ruivo_159: -693837929
+      Character2ruivo_16: 993796893
+      Character2ruivo_160: 1406224529
+      Character2ruivo_161: -131145031
+      Character2ruivo_162: 400877540
+      Character2ruivo_163: -2069998952
+      Character2ruivo_164: -689196214
+      Character2ruivo_165: 730277118
+      Character2ruivo_166: -1997512440
+      Character2ruivo_167: -1826596285
+      Character2ruivo_168: 1470339103
+      Character2ruivo_169: 416675320
+      Character2ruivo_17: -1177579550
+      Character2ruivo_170: -691585940
+      Character2ruivo_171: -518051873
+      Character2ruivo_172: -2093748245
+      Character2ruivo_173: 1607782237
+      Character2ruivo_174: -1885398262
+      Character2ruivo_175: -918311546
+      Character2ruivo_176: -1476709419
+      Character2ruivo_177: 1381917334
+      Character2ruivo_178: 360584742
+      Character2ruivo_179: -362528112
+      Character2ruivo_18: -24817785
+      Character2ruivo_180: 2098351776
+      Character2ruivo_181: -1882812514
+      Character2ruivo_182: 2123225704
+      Character2ruivo_183: 1337021655
+      Character2ruivo_184: -860184117
+      Character2ruivo_185: -841242274
+      Character2ruivo_186: -772340634
+      Character2ruivo_187: 685605333
+      Character2ruivo_188: 2088583691
+      Character2ruivo_189: 650092920
+      Character2ruivo_19: -1750089024
+      Character2ruivo_190: 31454375
+      Character2ruivo_191: -1540862965
+      Character2ruivo_192: 603889832
+      Character2ruivo_193: -496124735
+      Character2ruivo_194: -824033418
+      Character2ruivo_195: 767385053
+      Character2ruivo_196: -933093339
+      Character2ruivo_197: -1003258766
+      Character2ruivo_198: 339855704
+      Character2ruivo_199: -2027809530
+      Character2ruivo_2: -294406767
+      Character2ruivo_20: 2030105890
+      Character2ruivo_200: -2040593445
+      Character2ruivo_201: -1928813379
+      Character2ruivo_202: -96610992
+      Character2ruivo_203: 460541237
+      Character2ruivo_204: 1246712881
+      Character2ruivo_205: -670568193
+      Character2ruivo_206: -141353370
+      Character2ruivo_207: -67544570
+      Character2ruivo_208: 1133847618
+      Character2ruivo_209: 1596041495
+      Character2ruivo_21: 193807785
+      Character2ruivo_210: 338593186
+      Character2ruivo_211: -310509944
+      Character2ruivo_212: -242915303
+      Character2ruivo_213: 69186621
+      Character2ruivo_214: 602173110
+      Character2ruivo_215: 820478319
+      Character2ruivo_216: -1710538355
+      Character2ruivo_217: 705183703
+      Character2ruivo_218: 2054169857
+      Character2ruivo_219: -427167718
+      Character2ruivo_22: 648637818
+      Character2ruivo_220: 399267369
+      Character2ruivo_221: 494014491
+      Character2ruivo_222: -344392784
+      Character2ruivo_223: 982125618
+      Character2ruivo_224: -528939985
+      Character2ruivo_225: 1018451757
+      Character2ruivo_226: 1757579454
+      Character2ruivo_227: 1544697921
+      Character2ruivo_228: 1008829335
+      Character2ruivo_229: 1832513427
+      Character2ruivo_23: -1290034102
+      Character2ruivo_230: 337643504
+      Character2ruivo_231: -657934053
+      Character2ruivo_232: -776597205
+      Character2ruivo_233: -849853492
+      Character2ruivo_234: 1546760798
+      Character2ruivo_235: -210460512
+      Character2ruivo_236: 1359228857
+      Character2ruivo_237: -1797512757
+      Character2ruivo_238: -2036943554
+      Character2ruivo_24: 284989270
+      Character2ruivo_25: -1287034016
+      Character2ruivo_26: 930389963
+      Character2ruivo_27: 1168593614
+      Character2ruivo_28: -680932333
+      Character2ruivo_29: -1763108616
+      Character2ruivo_3: -189038894
+      Character2ruivo_30: 1056081905
+      Character2ruivo_31: -312447372
+      Character2ruivo_32: -1979389003
+      Character2ruivo_33: -2061278628
+      Character2ruivo_34: -1910040845
+      Character2ruivo_35: 1937644545
+      Character2ruivo_36: -1477914998
+      Character2ruivo_37: 2133165114
+      Character2ruivo_38: -1567263009
+      Character2ruivo_39: -2138547749
+      Character2ruivo_4: -1803998613
+      Character2ruivo_40: 277514494
+      Character2ruivo_41: -1188884949
+      Character2ruivo_42: 1950512061
+      Character2ruivo_43: 1309163921
+      Character2ruivo_44: -618517354
+      Character2ruivo_45: 1504438473
+      Character2ruivo_46: 361990543
+      Character2ruivo_47: 1160937199
+      Character2ruivo_48: 267920496
+      Character2ruivo_49: 1491981245
+      Character2ruivo_5: -27852968
+      Character2ruivo_50: -531153744
+      Character2ruivo_51: 356831163
+      Character2ruivo_52: -260721432
+      Character2ruivo_53: 1839796254
+      Character2ruivo_54: -749364077
+      Character2ruivo_55: 1308065772
+      Character2ruivo_56: 464250545
+      Character2ruivo_57: -1216209987
+      Character2ruivo_58: -1123981018
+      Character2ruivo_59: -749915562
+      Character2ruivo_6: -862382445
+      Character2ruivo_60: -52760356
+      Character2ruivo_61: 492122575
+      Character2ruivo_62: -250415491
+      Character2ruivo_63: -484843740
+      Character2ruivo_64: -1607689903
+      Character2ruivo_65: -1690171188
+      Character2ruivo_66: 902722685
+      Character2ruivo_67: -924035270
+      Character2ruivo_68: 1142383566
+      Character2ruivo_69: 1121298338
+      Character2ruivo_7: -2018646712
+      Character2ruivo_70: -582932241
+      Character2ruivo_71: -1117567965
+      Character2ruivo_72: 991973398
+      Character2ruivo_73: 1820153529
+      Character2ruivo_74: 1902615624
+      Character2ruivo_75: 13732639
+      Character2ruivo_76: 1441872346
+      Character2ruivo_77: 596413022
+      Character2ruivo_78: 1757480026
+      Character2ruivo_79: -627326220
+      Character2ruivo_8: 1243244256
+      Character2ruivo_80: 1265673271
+      Character2ruivo_81: -2120790869
+      Character2ruivo_82: 948439602
+      Character2ruivo_83: 1772327587
+      Character2ruivo_84: 1489573452
+      Character2ruivo_85: 580832175
+      Character2ruivo_86: 1125819904
+      Character2ruivo_87: -1112841593
+      Character2ruivo_88: 2124915421
+      Character2ruivo_89: -987880209
+      Character2ruivo_9: -1926878882
+      Character2ruivo_90: 555851711
+      Character2ruivo_91: 140560020
+      Character2ruivo_92: -642757469
+      Character2ruivo_93: -1338036250
+      Character2ruivo_94: -195863637
+      Character2ruivo_95: -1362848484
+      Character2ruivo_96: -223730653
+      Character2ruivo_97: -504392862
+      Character2ruivo_98: 1117898640
+      Character2ruivo_99: -1836037442
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

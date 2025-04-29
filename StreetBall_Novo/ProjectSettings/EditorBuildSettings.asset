@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/streetball2/Cenas/menuPrincipal.unity
+    guid: ee35630c03c1a484b846a1186142804f
+  - enabled: 1
+    path: Assets/streetball2/Cenas/creditos.unity
+    guid: c7f8b6c7bff760041941aac54a5e8b66
+  - enabled: 1
+    path: Assets/streetball2/Cenas/ranking.unity
+    guid: f82b24e6518ff16479805c9d1b3fe5f3
+  - enabled: 1
+    path: Assets/streetball2/Cenas/tutorialBotoes.unity
+    guid: 0cd988f668dc27f42ada3567ee27c761
+  - enabled: 1
+    path: Assets/Basketball/Scenes/Pause.unity
+    guid: 1af221d6dbbc3a240be1120ac67af663
+  - enabled: 1
+    path: Assets/streetball2/Cenas/Jogo.unity
+    guid: b9e6d283a5f16b4498e1af75a2c70a7d
+  - enabled: 1
+    path: Assets/streetball2/Cenas/vencedor.unity
+    guid: 5b1a675929796df4e9112aaafc34f7d8
+  - enabled: 1
+    path: Assets/streetball2/Cenas/menuJogo.unity
+    guid: 5e443430c2d80e345b6705e9f7a6438d
+  m_configObjects: {}
