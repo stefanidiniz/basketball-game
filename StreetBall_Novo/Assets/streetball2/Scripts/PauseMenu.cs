@@ -43,6 +43,6 @@ public class PauseMenu : MonoBehaviour
             Debug.LogWarning("GameManager não encontrado!");
         }
 
-        SceneManager.LoadScene(7);
+        SceneManager.LoadScene(0);
     }
 }

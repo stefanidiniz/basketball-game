@@ -17,7 +17,14 @@ public class cenas : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene(5);
+        // Destroi o GameManager atual, se houver
+        if (GameManager.instance != null)
+        {
+            Destroy(GameManager.instance.gameObject);
+            GameManager.instance = null; // Precisa limpar a referência!
+        }
+
+        SceneManager.LoadScene(4); // Carrega a cena do jogo diretamente
     }
     
     public void StartCreditos()

@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (scene.buildIndex == 5) // Cena do jogo
+        if (scene.buildIndex == 4) // Cena do jogo
         {
             ResetGameState();
             FindAndSetupMusic();
@@ -113,36 +113,12 @@ public class GameManager : MonoBehaviour
         isPaused = true;
         Time.timeScale = 0f;
 
-        if (gameMusic != null) gameMusic.Pause();
-        if (crowdAudio != null) crowdAudio.Pause();
-        if (pauseMusic != null) pauseMusic.Play();
-
-        SceneManager.LoadScene(4, LoadSceneMode.Additive);
+        SceneManager.LoadScene(6, LoadSceneMode.Additive);
     }
 
     public void ResumeGame()
     {
-        if (!isPaused) return; // Se não estiver pausado, ignora
-
-        StartCoroutine(ResumeAfterPause());
-    }
-
-    private IEnumerator ResumeAfterPause()
-    {
-        // Para a música de pausa
-        if (pauseMusic != null) pauseMusic.Stop();
-
-        // Descarrega a cena de Pause
-        AsyncOperation asyncUnload = SceneManager.UnloadSceneAsync(4);
-
-        // Espera descarregar
-        while (!asyncUnload.isDone)
-        {
-            yield return null;
-        }
-
-        if (gameMusic != null) gameMusic.Play();
-        if (crowdAudio != null) crowdAudio.Play();
+        SceneManager.UnloadSceneAsync(6);
 
         isPaused = false;
         Time.timeScale = 1f;
@@ -218,7 +194,7 @@ public class GameManager : MonoBehaviour
         gameIsOver = true;
         PlayerPrefs.SetInt("FinalScore", score);
         PlayerPrefs.Save();
-        SceneManager.LoadScene(6); // Cena de Vencedor
+        SceneManager.LoadScene(5); // Cena de Vencedor
     }
 
     public void PausarGame()

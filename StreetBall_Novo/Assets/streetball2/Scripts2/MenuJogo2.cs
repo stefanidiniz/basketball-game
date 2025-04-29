@@ -16,12 +16,12 @@ public class MenuJogo2 : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.UnloadSceneAsync(7);
+            SceneManager.UnloadSceneAsync(6);
         }
     }
 
     public void Resume()
     {
-        SceneManager.UnloadSceneAsync(7);
+        SceneManager.UnloadSceneAsync(6);
     }
 }

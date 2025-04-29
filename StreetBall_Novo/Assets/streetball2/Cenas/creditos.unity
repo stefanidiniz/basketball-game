@@ -428,9 +428,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1935732686}
-        m_TargetAssemblyTypeName: cenas, Assembly-CSharp
-        m_MethodName: StartMenu
+      - m_Target: {fileID: 1935732687}
+        m_TargetAssemblyTypeName: ReturnToMenu, Assembly-CSharp
+        m_MethodName: BackToMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1379,6 +1379,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1935732685}
   - component: {fileID: 1935732686}
+  - component: {fileID: 1935732687}
   m_Layer: 0
   m_Name: menuManager
   m_TagString: Untagged
@@ -1411,6 +1412,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 75636ea794aa70c4e940a6a6b8b4adc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1935732687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1935732683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66c8a8c90f23bb74b859f0622c6af50a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2025575571

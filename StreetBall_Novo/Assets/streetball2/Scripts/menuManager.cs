@@ -12,7 +12,7 @@ public class MenuManager : MonoBehaviour
             GameManager.instance = null; // Precisa limpar a referência!
         }
 
-        SceneManager.LoadScene(5); // Carrega a cena do jogo diretamente
+        SceneManager.LoadScene(4); // Carrega a cena do jogo diretamente
     }
 
     public void OpenControls()

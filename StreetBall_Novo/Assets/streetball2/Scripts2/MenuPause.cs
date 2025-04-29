@@ -27,7 +27,7 @@ public class MenuPause : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.M))
         {
-            SceneManager.LoadScene(7, LoadSceneMode.Additive);
+            SceneManager.LoadScene(6, LoadSceneMode.Additive);
         }
     }
 
